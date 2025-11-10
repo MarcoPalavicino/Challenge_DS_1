@@ -31,10 +31,15 @@ El proyecto está compuesto por las siguientes secciones principales:
 3. **Visualizaciones**  
    Gráficos de barras, líneas y dispersión elaborados con Matplotlib.
 
-4. **Informe final**  
+   <img width="815" height="457" alt="image" src="https://github.com/user-attachments/assets/f768a1c4-7911-40fb-8005-2d780783b57b" />
+   <img width="800" height="483" alt="image" src="https://github.com/user-attachments/assets/8cbd5784-c262-4f2b-8bb3-8720313c84ea" />
+
+
+
+5. **Informe final**  
    Conclusión sobre qué tienda debería vender el Sr. Juan, justificada con datos y visualizaciones.
 
-5. **(Extra opcional)**  
+6. **(Extra opcional)**  
    Análisis geográfico de las ventas mediante coordenadas de latitud y longitud.
 
 ---
